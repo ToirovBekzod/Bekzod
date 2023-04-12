@@ -1,0 +1,33 @@
+header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22pt;
+    width: 100%;
+    text-align: center;
+    margin-top: 80px;
+    
+}
+
+
+.blue{
+    color:rgb(0, 132, 255);
+}
+.red{
+    color: red;
+}
+.orange{
+    color:rgb(255, 208, 0)
+}
+.green{
+    color: green;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.search{
+    text-align: center;
+}
+
